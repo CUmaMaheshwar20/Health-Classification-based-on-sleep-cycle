@@ -29,3 +29,12 @@ Data Visualization: Developed interactive Tableau dashboards to visualize comple
 - Policymakers & Wellness Designers: To guide population-level interventions aimed at improving sleep and health outcomes.
 
 - General Public & Health-Conscious Individuals: To gain insights into how daily habits like occupation and activity levels influence overall health and sleep quality.
+
+# Technical Details
+# Tools Used:
+- Tableau for data visualization
+
+- Python for initial data preprocessing and ML models for clustering.
+
+# Data Sources
+- https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
