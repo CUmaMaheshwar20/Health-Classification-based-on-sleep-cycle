@@ -24,7 +24,7 @@ Insight 3: Occupation and age influence sleep duration, with healthcare workers 
 Insight 4: Interconnected sleep metrics — occupations with less sleep tend to report higher stress, and gender/age factors play a role in this dynamic.
 
 # Target Audience
-Healthcare Professionals: To understand the relationship between sleep, stress, and physical activity for better patient care.
+- Healthcare Professionals: To understand the relationship between sleep, stress, and physical activity for better patient care.
 
 Policymakers & Wellness Designers: To guide population-level interventions aimed at improving sleep and health outcomes.
 
